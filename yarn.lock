@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@angular/compiler@10.0.14":
-  version "10.0.14"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-10.0.14.tgz#0a766786eaa8817137bda17b7e509efac385582d"
-  integrity sha512-lYNo6/MmnYAVFoDQDBB6HMFd9zHg3RHXc6hn+wchU0XSWiIsg6WYHbKOb/DyqUEyKebzy0gSKZf7gUeZHtj62Q==
+"@angular/compiler@10.1.3":
+  version "10.1.3"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-10.1.3.tgz#84c2da8c37d02a7b7337ae34c173ce1d90d57d9a"
+  integrity sha512-rfiXkf6BPFWHLU0rg+c5BgTdrxVJcyOQipKw3iI2W00RsU3VCFTXKYpm10DamhRrNOf8rJcboqMbdi34awy6xA==
   dependencies:
     tslib "^2.0.0"
 
