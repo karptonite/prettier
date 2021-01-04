@@ -33,6 +33,7 @@ module.exports = {
     category: CATEGORY_JAVASCRIPT,
     type: "boolean",
     default: false,
+    deprecated: "2.3.0",
     description:
       "Put > on the last line instead of at a new line. (Deprecated. Use angleBracketSameLine.)",
   },
