@@ -5852,12 +5852,10 @@ postcss-media-query-parser@0.2.3:
   resolved "https://registry.yarnpkg.com/postcss-media-query-parser/-/postcss-media-query-parser-0.2.3.tgz#27b39c6f4d94f81b1a73b8f76351c609e5cef244"
   integrity sha1-J7Ocb02U+Bsac7j3Y1HGCeXO8kQ=
 
-postcss-scss@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/postcss-scss/-/postcss-scss-2.1.1.tgz#ec3a75fa29a55e016b90bf3269026c53c1d2b383"
-  integrity sha512-jQmGnj0hSGLd9RscFw9LyuSVAa5Bl1/KBPqG1NQw9w8ND55nY4ZEsdlVuYJvLPpV+y0nwTV5v/4rHPzZRihQbA==
-  dependencies:
-    postcss "^7.0.6"
+postcss-scss@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-scss/-/postcss-scss-4.0.0.tgz#6cfe09040f01e3345c9c226894c5913ac5fa9381"
+  integrity sha512-xakgIr5ukOEyXFcsnADKjQtrk8nQyqn5VIEAA+PmPP4kBOpknmjpJMxBNqCR1/x20AS0aSfZkWsSdbMx2Ozm5A==
 
 postcss-selector-parser@2.2.3:
   version "2.2.3"
@@ -5877,7 +5875,7 @@ postcss-values-parser@2.0.1:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss@^7.0.14, postcss@^7.0.6:
+postcss@^7.0.14:
   version "7.0.35"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.35.tgz#d2be00b998f7f211d8a276974079f2e92b970e24"
   integrity sha512-3QT8bBJeX/S5zKTTjTCIjRF3If4avAT6kqxcASlTWEtAFCb9NH0OUxNDfgZSWdP5fJnBYCMEWkIFfWeugjzYMg==
